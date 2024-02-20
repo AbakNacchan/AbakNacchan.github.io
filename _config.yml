@@ -1,11 +1,11 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Abak Nacchan's Page
+email: muhammad.ridha@live.co.uk
+description: Not your so-called portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: MireinaRiviere
 github_username:
 
 # Build settings
